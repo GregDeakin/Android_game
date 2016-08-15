@@ -1,4 +1,4 @@
-# Android_game
+# Android_games
 
 ## Rugby manager
 
