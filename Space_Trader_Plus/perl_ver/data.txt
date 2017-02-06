@@ -1,0 +1,5 @@
+#product	basecost	techlevel	
+product	Woodbines	20	1
+product	Spandex	20	1
+product	Snake oil	20	1
+#location 	wealth	techlevel	stability	size
