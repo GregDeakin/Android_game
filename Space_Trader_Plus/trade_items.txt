@@ -1,0 +1,5 @@
+#product	basecost	techlevel	
+Woodbines	20	1
+Spandex	20	1
+Snake oil	20	1
+Potatoes  20  1
