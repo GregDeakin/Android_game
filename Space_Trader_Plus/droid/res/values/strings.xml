@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">New_Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My message</string>
+    <string name="button_status">Status</string>
+    <string name="button_trade">Trade</string>
+    <string name="button_navigator">Navigator</string>
+    <string name="button_shipyard">Shipyard</string>
+    <string name="button_messageboard">Message board</string>
+    <string name="button_woodbines">Woodbines</string>
+    <string name="button_spandex">Spandex</string>
+    <string name="button_positive">+1</string>
+    <string name="button_negative">-1</string>
+    <string name="button_tcontracts">Contracts</string>
+    <string name="title_activity_trade">TradeActivity</string>
+    <string name="title_activity_buy_sell">BuySellActivity</string>
+    <string name="title_activity_woodbines">WoodbinesActivity</string>
+    <string name="title_activity_spandex">SpandexActivity</string>
+    <string name="title_activity_snakeoil">SnakeoilActivity</string>
+    <string name="button_snakeoil">Snakeoil</string>
+    <string name="title_activity_status">StatusActivity</string>
+    <string name="button_commander">Commander</string>
+    <string name="button_ship">Ship</string>
+
+</resources>
